@@ -1,14 +1,19 @@
 {
-  "certo": [
+  "wine": [
     {
       "id" : "1",
       "long_name" : "Iury dos S. Carvalho",
-      "CPF" : "",
-      "numero_pedido" : "000.000.000.00",
+      "CPF" : "000.000.000.00",
+      "numero_pedido" : "100100",
       "certo" : true
     }
   ],
-  "errado": {
-    "name": "Jhulio"
+  "wine2": {
+      "id" : "2",
+      "long_name" : "Jhulio Silva",
+      "CPF" : "",
+      "numero_pedido" : "",
+      "certo" : true
   }
 }
+
