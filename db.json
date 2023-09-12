@@ -1,20 +1,20 @@
 {
   "wine": [
     {
-      "id" : "1",
-      "long_name" : "Iury dos S. Carvalho",
+      "id" : "Número da solicitação: 4546",
+      "certo" : "Usuário confirmado",
+      "nome" : "Sr. Cliente",
       "CPF" : "000.000.000.00",
-      "numero_pedido" : "100100",
-      "image": "file:///C:/Users/Merso/Desktop/Geral/ESTRATÉGIA/Icon/seta-direita.png",
-      "certo" : true
+      "e-mail" : "iury.carvalho99@gmail.com",
+      "todos_os_pedidos" : "Todos os meus pedidos: 10 ,20, 30",
+      "numero_pedido" : "30",
+      "image" : "https://github.com/JhuliooSilva/banco-teste/issues/1#issue-1893087586",
+      "image" : "https://github.com/JhuliooSilva/banco-teste/issues/1#issuecomment-1716272562",
+      "image" : "https://github.com/JhuliooSilva/banco-teste/issues/1#issuecomment-1716272896",
     }
   ],
   "wine2": {
-      "id" : "2",
-      "long_name" : "Jhulio Silva",
-      "CPF" : "",
-      "numero_pedido" : "",
-      "certo" : true
+      certo" : "Desculpe, nenhum usuário está cadastrado com este e-mail",
   }
 }
 
