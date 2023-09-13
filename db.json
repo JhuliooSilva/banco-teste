@@ -1,5 +1,5 @@
 {
-  "wine": [
+  "êxito": [
     {
       "id" : "Número da solicitação: 4546",
       "certo" : "Usuário confirmado",
@@ -13,8 +13,8 @@
       "image" : "https://github.com/JhuliooSilva/banco-teste/issues/1#issuecomment-1716272896",
     }
   ],
-  "wine2": {
-      certo" : "Desculpe, nenhum usuário está cadastrado com este e-mail",
+  "falha": {
+      "inexistente" : "Desculpe, nenhum usuário está cadastrado com este e-mail",
   }
 }
 
