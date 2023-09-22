@@ -2,7 +2,6 @@
   "exito": [
     {
       "id": 1,
-      "certo": "Usuário confirmado",
       "nome": "Sr. Cliente",
       "CPF": "000.000.000.00",
       "email": "iury.carvalho99@gmail.com",
@@ -13,12 +12,12 @@
       "outro_pedido": "Pedido confirmado"
     },
     {
-      "id": 2,
+      "id": 4,
       "certo": "Usuário confirmado",
       "nome": "Sr. Cliente",
       "CPF": "000.000.000.00",
-      "email": "iury.carvalho99@gmail.com",
-      "numero_pedido" : "30",
+      "email": "jhuliosilvafotos@gmail.com",
+      "numero_pedido" : "50",
       "image_1": "Pedido: 10 - Loja Wine  data: 25/07/23  https://github.com/JhuliooSilva/banco-teste/issues/1#issue-1893087586",
       "image_2": "Pedido: 20 - Loja Wine  data: 18/08/23  https://github.com/JhuliooSilva/banco-teste/issues/1#issuecomment-1716272562",
       "image_3": "Pedido: 30 - Loja Wine  data: 14/09/23  https://github.com/JhuliooSilva/banco-teste/issues/1#issuecomment-1716272896",
@@ -28,19 +27,6 @@
       "id": 3,
       "inexistente" : "Desculpe, nenhum usuário está cadastrado com este e-mail"
     },
-    {
-      "id": 4,
-      "certo": "Usuário confirmado",
-      "nome": "Sr. Cliente",
-      "CPF": "000.000.000.00",
-      "email": "jhuliosilvafotos@gmail.com",
-      "numero_pedido" : "30",
-      "image_1": "Pedido: 10 - Loja Wine  data: 25/07/23  https://github.com/JhuliooSilva/banco-teste/issues/1#issue-1893087586",
-      "image_2": "Pedido: 20 - Loja Wine  data: 18/08/23  https://github.com/JhuliooSilva/banco-teste/issues/1#issuecomment-1716272562",
-      "image_3": "Pedido: 30 - Loja Wine  data: 14/09/23  https://github.com/JhuliooSilva/banco-teste/issues/1#issuecomment-1716272896",
-      "outro_pedido": "Pedido confirmado"
-    }
 ]
 }
 
-  
