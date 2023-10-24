@@ -1,7 +1,6 @@
-{
-  "teste": [
+[
     {
-      "cpf": "123.456.789.01",
+      "cpf": "123.456.789-01",
       "nome": "Sr. Cliente",     
       "email": "iury.carvalho99@gmail.com",
       "numero_pedido" : "123",
@@ -12,7 +11,7 @@
       "status": "Em rota de entrega"
     },
     {
-      "cpf": "123.456.789.02",
+      "cpf": "123.456.789-02",
       "nome": "Jhulio Silva",
       "email": "jhulio@merso.com.br",
       "numero_pedido" : "333",
@@ -23,6 +22,4 @@
       "status": "Entregue"
     }
 ]
-}
-
 
