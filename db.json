@@ -1,4 +1,6 @@
- {
+{
+  "teste": [
+    {
       "cpf": "123.456.789.01",
       "nome": "Sr. Cliente",     
       "email": "iury.carvalho99@gmail.com",
@@ -20,5 +22,7 @@
       "data_entrega": "15/11/2023",
       "status": "Entregue"
     }
+]
+}
 
 
